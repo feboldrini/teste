@@ -45,7 +45,7 @@ header h1 {
     overflow: hidden;
     margin: 10px auto 20px;
     /* max-width: 600px;  Let's remove this limit for now */
-    width: 40%; /* Occupy 80% of the header's width */
+    width: 60%; /* Occupy 80% of the header's width */
     max-height: 600px; /* Added a maximum height */
 }
 
