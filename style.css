@@ -4,11 +4,12 @@
 :root {
     --primary-color: #000000;
     --secondary-color: #ffffff;
-    --text-color: #ffffff;
+    --text-color: #000000;
     --background-color: #000000;
     --button-hover: #000000;
     --font-body: "Chocolate Classical Sans", serif;
-    --font-titulo: "Rakkas", serif;
+    --font-titulo: "Rakkas
+    ", serif;
 }
 
 /* Reset */
